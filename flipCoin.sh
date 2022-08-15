@@ -32,7 +32,7 @@ done
     then
     echo "Its a Tie";
     else
-    echo "Flip it again";
+    echo "Flip it once";
     fi
 }
 coin;
